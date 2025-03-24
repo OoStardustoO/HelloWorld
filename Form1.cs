@@ -19,7 +19,7 @@ namespace HelloWorld
 
         private void button1_Click(object sender, EventArgs e)
         {
-            txtShow.Text = "原神 啟動!!!";
+            txtShow.Text = "原神  啟動!!!";
         }
     }
 }
